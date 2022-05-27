@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Prueba
 http://192.64.86.228/peliculas/Baratometrajes.2.0.El.Futuro.Del.Cine.Hecho.En.Espana.2014.mp4
+#EXTM3U
+#EXTINF:-1, Naruto
+http://51.77.66.14/Naruto.Shippuden.S01-S22.1080p.CR.WEB-DL.AAC.2.0.x264-KAN3D2M/Naruto%20Shippuden.S10.1080p.CR.WEB-DL.AAC.2.0.x264-KAN3D2M/Naruto%20Shippuden.S10E197.1080p.CR.WEB-DL.AAC.2.0.x264-KAN3D2M.mkv
+
